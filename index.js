@@ -1,4 +1,4 @@
-const { Client, Collection, GatewayIntentBits, Partials,  } = require("discord.js")
+const { Client, Collection, GatewayIntentBits, Partials } = require("discord.js")
 const db = require("croxydb")
 const fs = require("fs")
 const cf = require("./config/config.js")
@@ -76,3 +76,4 @@ client.on("messageCreate", async (message) => {
     }
 
 });
+
