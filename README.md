@@ -1,6 +1,6 @@
 # **StudioX**  
 
-# Discord V14 Boş Alt Yapı
+# Discord V14 Prefixli Boş Alt Yapı
 
 # Proje Nasıl Aktif Hale Getirilir ?
 - [NodeJs i İndirin](https://nodejs.org/en/download)
@@ -11,3 +11,4 @@
 # Bu Proje **StudioX** e Aittir
 - Discord Sunucumuz → https://discord.gg/3jM3vZWARx
 - Web Sitemiz → https://xstudiox.vercel.app/
+
